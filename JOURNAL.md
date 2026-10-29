@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 3 | 5.75h | 2 |
+| Week 4 | Tier 3 | 8.75h | 2 |
 
 ## Contents
 
@@ -45,12 +45,20 @@ I also looked at batteries, I decided to go for 18650s because they are good, du
 
 ### 2026-10-29: # Finding Parts
 
-**2h**
+**5h**
 
 # Finding Parts
 I spent a long time trying to find a good 7 inch IPS lcd screen cheaply. when I did though, it had a lot of shipping fees, which made it too expensive sadly. So in the end I resulted to looking a 5 inch screens sadly. After a while i found a decent one, it was still fairly expensive but it will have to do.
 
 ![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/7d47aeeaa4a9e5abfa45bccafdc062b7d8c1215a492c214f9bf94c74911595cf.png)
+
+All the other displays were either CYD or TN display which are quite bad and not cost effective.
+
+![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/7abf98f7eb9481c2893aca28d49b2d1e4b26452658029c2e120e7d4a934254bf.png)
+
+I also finished looking at batteries from yesterday and i have settled on high capacity low amp 18650.
+
+![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/b3d10df8f79929185e0c6480f9bd288b9d2fffd219ff67e5cfb9d44f15fccde1.png)
 
 # PCB schematic
 I plan to make a custom PCB for my controllers, so i started the schematic in EasyEDA, but I got a little bit side tracked figuring out exactly which parts in needed.
@@ -59,3 +67,5 @@ I plan to make a custom PCB for my controllers, so i started the schematic in Ea
 
 # Side 'Quest'
 I started looking for parts, finding cheap ones and deciding which ones i wanted to use. Because by the time I looked at parts, it was easy enough to add them to the BOM, however, i haven't finished it. At the moment I am looking at my BOM and thinking the stuff won't fit in the budget. So I will have to sort that out later.
+
+![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/bdfb9e15625402cac6d096fe85ec4ef307555dbce8bd942182953083f079e758.png)
