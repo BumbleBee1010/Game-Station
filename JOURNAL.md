@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 3 | 22.25h | 5 |
+| Week 4 | Tier 3 | 22.5h | 5 |
 
 ## Contents
 
@@ -136,7 +136,7 @@ I also added the new pcb files to my github repository.
 
 ### 2026-10-31: # Repercussions
 
-**2.5h**
+**2.75h**
 
 # Repercussions
 After I decided to omit the batteries, I did the PCB as stated in the last journal, however, I failed to notice that I had nothing to power the controllers. So I have been looking at different cheaper ways to power the controller.  I the end I concluded usb c cables will be the easiest. I then found 2, 1 for data and flashing the esp32s and the other for providing power delivery.
