@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/pmr6vbhkseq8kutp53tmrf8a)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A game console with a screen and wireless controllers
+> A game console made up of a main esp32s3 screen and 4 custom esp32c6 controllers to go alongside it.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
@@ -156,7 +156,7 @@ Once I had deleted the batteries off the BOM I had a extra $30 odd to use. so i 
 **1.25h**
 
 # Coding
-I did some basic code for my screen on the the console and controllers, I used micrpython because it is simpler than c and has some quite good functionalities.
+I did some basic code for my screen on the the console and controllers, I used micrpython because it is simpler than c and has some quite good functionalities. I made sure to explain my code using comments so the reviewer can understand/ double check it easier.
 
 ![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/6fb6dfeb1c614f18159a9461e6899e23942737e2787604671958557101e0e017.png)
 
