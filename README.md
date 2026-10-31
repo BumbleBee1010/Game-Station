@@ -2,8 +2,8 @@
 Game Station is a display and 4 controller. the 5 inch IPS display is powered by a esp32 S3, the controller by a Xiao Seeed esp32C6. the display comprises of a esp32 S3 rgb565 driver and the screen. The controllers include 2 sets of D pads (each with 4 buttons), a slider, a small screen and a imu to measure controller tilt.
 <img width="1087" height="589" alt="image" src="https://github.com/user-attachments/assets/468669a8-3b51-4231-8b15-723507b3f746" />
 
-## Purpose 
-The purpose of the game station is so you can play retro games like Pong but also code your own compatible games. For example you could use the slider for Pong, and the D pads for something like Mario.
+## Goal and Purpose 
+My Goal and the purpose of the game station is so you can play retro games like Pong but also code your own compatible games. For example you could use the slider for Pong, and the D pads for something like Mario.
 
 ## Iterations
 At first I decided I wanted to use batteries to power the 18650. So I created a PCB then did a BOM including the batteries. However once I did the BOM, the batteries were the most expensive thing, costing close to $40, because shipping is expensive. So once I omitted them, I had free budget so I decided I would get more components so I could make 4 controller instead of 2. But losing greater portability, which I didn't mind about. 
