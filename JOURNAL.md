@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 3 | 25.5h | 7 |
+| Week 4 | Tier 3 | 26.5h | 7 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 4. [2026-10-31: # Big Changes](#2026-10-31-big-changes)
 5. [2026-10-31: # Repercussions](#2026-10-31-repercussions)
 6. [2026-10-31: # Coding](#2026-10-31-coding)
-7. [2026-10-31: # Writing README](#2026-10-31-writing-readme)
+7. [2026-10-31: # Writing README and Getting Ready to Submit!!](#2026-10-31-writing-readme-and-getting-ready-to-submit)
 
 ## Design
 
@@ -168,13 +168,17 @@ I also figured out how to commit and sync the project to my GitHub repository.
 
 ![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/04fa4369f30d54088947fc2798f09c7b42aeeffdff6f66c29437a9452ab40355.png)
 
-### 2026-10-31: # Writing README
+### 2026-10-31: # Writing README and Getting Ready to Submit!!
 
-**1.75h**
+**2.75h**
 
-# Writing README
+# Writing README and Getting Ready to Submit!!
 I wrote my README, making sure it all made sense and was detailed. I included explanations on the layout of the controller, the code and BOM. I made sure to put the BOM in a table form like my week 1 reviewer said to do.
 
 ![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/551bfc6ee3e65d4ce14b846ed49d1e61b01b64163f1c5050f2db5c18895793af.png)
 
 ![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/5e4a82dd40caa6bcf1998a1c108fda9b83f5a75235d4e0d922bf779ae6373657.png)
+
+#Getting Ready to Submit!!
+I did my reals and everything and all my files are synced/ added to my git repository
+![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/340054d916e756bac89387c9c94f68238bd574a20f88136c94ed8a38f5371b75.png)
