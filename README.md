@@ -1,5 +1,5 @@
 # Game Station
-Game Station is made up of a display and 4 controllers. The 5 inch IPS display is powered by a esp32 S3, the controllers by a Xiao Seeed esp32C6. the display comprises of a esp32 S3 rgb565 driver and the screen. The controllers include 2 sets of D pads (each with 4 buttons), a slider, a small screen and a imu to measure controller tilt.
+Game Station is made up of a display and 4 controllers. The 5 inch IPS display is powered by a esp32 S3, the controllers by a Xiao Seeed esp32C6, which will communicate to each other via esp-now. the display comprises of a esp32 S3 rgb565 driver and the screen. The controllers include 2 sets of D pads (each with 4 buttons), a slider, a small screen and a imu to measure controller tilt.
 <img width="1087" height="589" alt="image" src="https://github.com/user-attachments/assets/468669a8-3b51-4231-8b15-723507b3f746" />
 
 ## Goal and Purpose 
