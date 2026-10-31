@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 3 | 28h | 7 |
+| Week 4 | Tier 3 | 28.25h | 7 |
 
 ## Contents
 
@@ -77,7 +77,7 @@ I started looking for parts, finding cheap ones and deciding which ones i wanted
 
 ### 2026-10-30: ## PCB layout
 
-**7.75h**
+**8h**
 
 ## PCB layout
 I had a struggle figuring out a good layout, the pieces started in a jumbled mess but after 3 iterations and a hand drawn sketch, I figured out a rough layout and then translated it onto my computer. I tried my best to keep everything symmetrical and neat. I wired the GND through a copper pour, and I did the copper pour in the top and bottom layer to reduce electrical interference.
@@ -98,7 +98,7 @@ On aliexpress, I should be able to get money off and make the total closer to £
 
 ![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/225906c64841ddda05d2d040abad827f172ccb0c8d1261fc692f52e8ce37f7fe.png)
 
-#Github Repo
+# Github Repo
 I added my PCB related files to my github repository too.
 
 ![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/4b826963f2f62a800e102628e5576f7379d45823d8bc9bb5e733e952b1dfcefc.png)
