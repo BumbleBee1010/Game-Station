@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 3 | 29.25h | 7 |
+| Week 4 | Tier 3 | 29.5h | 7 |
 
 ## Contents
 
@@ -180,7 +180,7 @@ I also figured out how to commit and sync the project to my GitHub repository.
 
 ### 2026-10-31: # Writing README
 
-**3.25h**
+**3.5h**
 
 # Writing README
 I wrote my README, making sure it all made sense and was detailed. I included explanations on the layout of the controller, the code and BOM. I made sure to put the BOM in a table form like my week 1 reviewer said to do.
