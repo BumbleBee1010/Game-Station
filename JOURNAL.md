@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 3 | 26.5h | 7 |
+| Week 4 | Tier 3 | 27.75h | 7 |
 
 ## Contents
 
@@ -113,7 +113,7 @@ I looked at batteries and confirmed there is no cheaper place to buy them for a 
 
 ### 2026-10-31: # Big Changes
 
-**3.25h**
+**4.5h**
 
 # Big Changes
 ## Batteries
@@ -135,6 +135,11 @@ removes visual clutter and makes it look neater.
 I also added the new pcb files to my github repository.
 
 ![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/ff0db8fa62c660cb6b9c7429a7a09f3c15f1bc758927ca1fbb89a717f7b52f38.png)
+
+![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/a7e13e0ec4d3dc5d58cf969f72fd3917e877ffa0e7af087d6bba748b2934f52c.png)
+
+# Advice
+I asked my parent if they though what I had changed it to was good and gave them a quick overview and they mentioned a few things which I then changed.
 
 ### 2026-10-31: # Repercussions
 
