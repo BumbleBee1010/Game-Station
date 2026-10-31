@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 3 | 22h | 5 |
+| Week 4 | Tier 3 | 22.25h | 5 |
 
 ## Contents
 
@@ -111,7 +111,7 @@ I looked at batteries and confirmed there is no cheaper place to buy them for a 
 
 ### 2026-10-31: # Big Changes
 
-**3h**
+**3.25h**
 
 # Big Changes
 ## Batteries
@@ -128,6 +128,11 @@ I redid the PCB layout to get rid of the battery slot. I ended up changing the l
 removes visual clutter and makes it look neater.
 
 ![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/5bacf3bd579c70eb1f417266bb16b38ff3b6f8bcd5e63019f5a523813d2caf0c.png)
+
+# Git Repo
+I also added the new pcb files to my github repository.
+
+![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/ff0db8fa62c660cb6b9c7429a7a09f3c15f1bc758927ca1fbb89a717f7b52f38.png)
 
 ### 2026-10-31: # Repercussions
 
