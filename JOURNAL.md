@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 3 | 27.75h | 7 |
+| Week 4 | Tier 3 | 28h | 7 |
 
 ## Contents
 
@@ -159,7 +159,7 @@ Once I had deleted the batteries off the BOM I had a extra $30 odd to use. so i 
 
 ### 2026-10-31: # Coding
 
-**1.25h**
+**1.5h**
 
 # Coding
 I did some basic code for my screen on the the console and controllers, I used micrpython because it is simpler than c and has some quite good functionalities. I made sure to explain my code using comments so the reviewer can understand/ double check it easier.
