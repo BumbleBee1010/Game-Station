@@ -38,12 +38,12 @@ Then I look towards SBC, single board computer, which would give me much more co
 
 ![1000009064](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/797877c6a675fcb1b19df5a5fc4948176e2e7b6d37f0352f0da13a48cb6d76aa.jpg)
 
-## Decision
+## Decision 
 In the end, I think a esp32 S3 LCD driver and a screen will be my best bet. It is a good price and is still powerful enough to run a LCD touchscreen. I also looked a a few bundle but am still undecided whether to buy sperately or together, and with a IPS or TN screen. I want to go with the largest screen I can. Esp32 S3 have also been around for a while and are quite supported by the espresiff community. I may use one like in the picture below.
 
 ![1000009085](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/6d68a03f64de0800137769ae0553be80322c1a6c2d4a56f9784ae0ccf03ccef9.jpg)
 
-## Batteries
+## Batteries 
 I also looked at batteries, I decided to go for 18650s because they are good, durable, batteries with metal shielding and have good capacity. I looked at high amp, low capacity ones like 30A, 2500mah ones, and low amp high capacity ones like 10A 3500mah. I decided for my controller I will only use 1, to create a good balance of weight and battery life time. For the screen I will probably do a 2p setup to maximise capacity. For both I will use a boost converter to step it up to a clean 5v for the esp to function. I will probably use 10A 3500mah ones if I can.
 
 ![1000009214](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/a93c7f688a8169e111d3a500d903f53fa0dd2ccebd4ec556f4527792f55ed8c1.jpg)
@@ -53,7 +53,7 @@ I also looked at batteries, I decided to go for 18650s because they are good, du
 **5.5h**
 
 # Finding Parts
-I spent a long time trying to find a good 7 inch IPS lcd screen cheaply. when I did though, it had a lot of shipping fees, which made it too expensive sadly. So in the end I resulted to looking a 5 inch screens sadly. After a while i found a decent one, it was still fairly expensive but it will have to do.
+I spent a long time trying to find a good 7 inch IPS lcd screen cheaply. when I did though, it had a lot of shipping fees, which made it too expensive sadly. So in the end I resulted to looking a 5 inch screens sadly. After a while i found a decent one, it was still fairly expensive but it will have to do. 
 
 ![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/7d47aeeaa4a9e5abfa45bccafdc062b7d8c1215a492c214f9bf94c74911595cf.png)
 
